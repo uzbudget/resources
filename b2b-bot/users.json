@@ -34,5 +34,11 @@
     "language": "ru",
     "name": "Mirshod",
     "role": "ADMIN"
+  },
+  {
+    "chatId": 551840002,
+    "language": "uz",
+    "name": "Quvondiq",
+    "role": "ADMIN"
   }
 ]

@@ -3,12 +3,30 @@
     "chatId": 543560094,
     "language": "uz",
     "name": "Valixon",
-    "role": "USER",
+    "role": "ADMIN"
+  },
+  {
+    "chatId": 6234035139,
+    "language": "en",
+    "name": "Zikrulla",
+    "role": "ADMIN"
+  },
+  {
+    "chatId": 2597549,
+    "language": "uz",
+    "name": "Gayratjon",
+    "role": "ADMIN"
+  },
+  {
+    "chatId": 372090525,
+    "language": "ru",
+    "name": "Nodirbek",
+    "role": "ADMIN"
   },
   {
     "chatId": 987654321,
     "language": "ru",
     "name": "Sasha",
-    "role": "USER",
+    "role": "USER"
   }
 ]

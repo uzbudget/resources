@@ -2,11 +2,13 @@
   {
     "chatId": 543560094,
     "language": "uz",
-    "firstName": "Valixon"
+    "name": "Valixon",
+    "role": "USER",
   },
   {
     "chatId": 987654321,
     "language": "ru",
-    "firstName": "Sasha"
+    "name": "Sasha",
+    "role": "USER",
   }
 ]

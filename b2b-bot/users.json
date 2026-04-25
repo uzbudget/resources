@@ -28,5 +28,11 @@
     "language": "ru",
     "name": "Sasha",
     "role": "USER"
+  },
+  {
+    "chatId": 613208718,
+    "language": "ru",
+    "name": "Mirshod",
+    "role": "ADMIN"
   }
 ]

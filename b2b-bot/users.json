@@ -40,5 +40,11 @@
     "language": "uz",
     "name": "Quvondiq",
     "role": "ADMIN"
+  },
+  {
+    "chatId": 1954499717,
+    "language": "uz",
+    "name": "Mansurbek",
+    "role": "ADMIN"
   }
 ]

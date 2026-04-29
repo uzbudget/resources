@@ -52,5 +52,11 @@
     "language": "en",
     "name": "Hamidullo",
     "role": "ADMIN"
+  },
+  {
+    "chatId": 67240707,
+    "language": "en",
+    "name": "Aziz",
+    "role": "ADMIN"
   }
 ]

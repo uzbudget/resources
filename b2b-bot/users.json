@@ -46,5 +46,11 @@
     "language": "uz",
     "name": "Mansurbek",
     "role": "ADMIN"
+  },
+  {
+    "chatId": 332247969,
+    "language": "en",
+    "name": "Hamidullo",
+    "role": "ADMIN"
   }
 ]
